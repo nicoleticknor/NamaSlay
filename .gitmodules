@@ -1,0 +1,6 @@
+[submodule "app"]
+	path = app
+	url = https://github.com/nicoleticknor/namaslay-app
+[submodule "backend"]
+	path = backend
+	url = https://github.com/nicoleticknor/namaslay-backend
